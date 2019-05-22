@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.regaslzr.cardvalidator">
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:supportsRtl="true" />
+
+</manifest>
